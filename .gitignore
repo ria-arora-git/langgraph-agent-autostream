@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc.*
+*.py,cover
+
+# Virtual environment
+venv/
+.env/
+.env.*
+
+# Environment variables
+.env
+
+# Mac
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build / dist
+build/
+dist/
+*.egg-info/
+
+# Cache
+.cache/
+
+# SQLite (if added later)
+*.db
+
+# Secrets / keys
+*.pem
+*.key

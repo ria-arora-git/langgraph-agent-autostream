@@ -1,0 +1,59 @@
+{
+  "company": {
+    "name": "AutoStream",
+    "tagline": "Automated video editing tools for content creators",
+    "description": "AutoStream is a SaaS platform that uses AI to automate video editing, helping content creators produce professional-quality videos faster and smarter."
+  },
+  "pricing": {
+    "plans": [
+      {
+        "name": "Basic Plan",
+        "price_monthly": 29,
+        "features": [
+          "10 videos per month",
+          "720p resolution output",
+          "Basic AI editing tools",
+          "Email support"
+        ],
+        "ideal_for": "Beginners and casual content creators"
+      },
+      {
+        "name": "Pro Plan",
+        "price_monthly": 79,
+        "features": [
+          "Unlimited videos per month",
+          "4K resolution output",
+          "AI-powered automatic captions",
+          "Advanced AI editing tools",
+          "24/7 priority support",
+          "Analytics dashboard"
+        ],
+        "ideal_for": "Professional YouTubers, Instagram creators, and full-time content creators"
+      }
+    ]
+  },
+  "policies": {
+    "refund_policy": "No refunds are issued after 7 days from the date of purchase. Refund requests within 7 days are reviewed case by case.",
+    "support": "Basic plan users receive email support during business hours. 24/7 live support is exclusively available to Pro plan subscribers.",
+    "cancellation": "Users can cancel their subscription at any time. Access continues until the end of the billing cycle.",
+    "free_trial": "AutoStream does not currently offer a free trial, but a 7-day money-back guarantee is available."
+  },
+  "faqs": [
+    {
+      "question": "What platforms does AutoStream support?",
+      "answer": "AutoStream supports exports optimized for YouTube, Instagram, TikTok, Twitter/X, and Facebook."
+    },
+    {
+      "question": "Can I upgrade from Basic to Pro?",
+      "answer": "Yes, you can upgrade at any time. You will be charged the prorated difference for the remainder of your billing cycle."
+    },
+    {
+      "question": "Does AutoStream support team collaboration?",
+      "answer": "Team collaboration features are on the roadmap and will be available in a future update."
+    },
+    {
+      "question": "What video formats are supported?",
+      "answer": "AutoStream accepts MP4, MOV, AVI, and MKV input files and exports in MP4 format."
+    }
+  ]
+}
